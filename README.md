@@ -1,1 +1,3 @@
 # AddPatients
+# DeletePatients
+# UpdatePatients
